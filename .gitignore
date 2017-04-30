@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints
+checkpoint
+*.data
+*.index
+*.meta
+*.p
+*.npz
+README.md
+_config.yml
